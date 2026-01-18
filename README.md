@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='127.0.0.1_5500 - Google Chrome 2026-01-18 01-46-45.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='prework_video_demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
