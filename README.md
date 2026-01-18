@@ -18,13 +18,12 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [x] Centered content for more eye pleasing view.
-* [ ] Added tentacle stretch parallax effect.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='127.0.0.1_5500 - Google Chrome 2026-01-18 01-46-45.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
