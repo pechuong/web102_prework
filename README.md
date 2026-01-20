@@ -4,7 +4,7 @@ Submitted by: **Peter Chuong**
 
 **Depth Plunder** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **2** hours spent in total
+Time spent: **2.5** hours spent in total
 
 ## Required Features
 
@@ -18,6 +18,7 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [x] Centered content for more eye pleasing view.
+* [x] Added Parallax effect with two tentacles moving inwards to the screen when scrolling
 
 ## Video Walkthrough
 
@@ -35,6 +36,7 @@ GIF created with LiceCap
 ## Notes
 
 Describe any challenges encountered while building the app.
+* Building the parallax and getting it to scroll in the correct direction
 
 ## License
 
