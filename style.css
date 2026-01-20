@@ -90,18 +90,32 @@ button {
 }
 
 /* create parallax effect here */
-.parallax {
-    background-image: url("assets/tentacles.png");
-
+.parallax-1 {
     position: fixed;
     width: 150px;
     height: 150px;
-    top: 500px;
-    left: -10px;
+    top: 100px;
+    left: -150px;
     rotate: 90deg;
+    z-index: 1;
+}
 
-    /* Create the parallax scrolling effect */
-    background-attachment: scroll;
-    background-repeat: no-repeat;
-    background-size: cover;
+.parallax-2 {
+    position: fixed;
+    width: 150px;
+    height: 150px;
+    top: 100px;
+    right: -150px;
+    rotate: -90deg;
+    z-index: 1;
+}
+
+#parallax-tentacle-1 {
+    position: absolute;
+    filter: brightness(0.95);
+}
+
+#parallax-tentacle-2 {
+    position: absolute;
+    filter: brightness(0.35);
 }
